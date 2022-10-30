@@ -99,7 +99,7 @@ On Windows:
 >  git clone https://github.com/yourgithubusername/glistzbin-win64.git
 
 On MacOS:
->  git clone https://github.com/yourgithubusername/glistzbin-macos.git
+>  git clone https://github.com/handegulin/glistzbin-macos.git
 
 On Linux:
 >  git clone https://github.com/yourgithubusername/glistzbin-linux.git
